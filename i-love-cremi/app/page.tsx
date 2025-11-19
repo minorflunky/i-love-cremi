@@ -12,7 +12,7 @@ export default function Home() {
             Just when I thought I was done they pull me back in.
           </p>
         </div>
-        <video>
+        <video width="750" height="500" controls >
           <source src="/videos/AAAAA.mp4" type="video/mp4"/>
         </video>
       </main>
